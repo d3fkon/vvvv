@@ -1,0 +1,13 @@
+---
+  metaData: 
+    author: "d3fkon"
+    git-repo: "https://github.com/d3fkon/vvvv"
+    approval: 
+      approved-by: "d3fkon"
+      approval-date: 1564173689130
+  job: 
+    job-name: "d3fkonxvvvv"
+    config: 
+      pre-unit-test: "yes"
+      post-unit-test: "no"
+      dev: "no"
